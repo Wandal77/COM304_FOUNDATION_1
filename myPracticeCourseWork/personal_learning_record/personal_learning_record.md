@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
-| Student Number | |
-| Github Account | |
+| Student Name |Marek Frackowiak | 
+| Student Number |Q102637731 |
+| Github Account |Wandal77 |
 
 ## Introduction
 
